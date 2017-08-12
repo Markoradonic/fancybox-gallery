@@ -1,0 +1,151 @@
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#glavni{
+position: absolute;
+width: 100%;
+height: 1200px;
+
+
+}
+
+.top{
+	position: fixed;
+	width: 100%;
+	height: 100px;
+	background-color: #003164;
+	border-bottom: 2px solid red;
+
+	 
+}
+
+
+.naslov{
+	position: fixed;
+	width: 400px;
+	height: 100px;
+	float: left;
+	text-align: center;
+	margin-left: 50px;
+	line-height: 100px;
+	font-size: 40px;
+	text-align: center;
+}
+
+.naslov a {
+	text-decoration: none;
+	color: white;
+
+}
+
+.nav{
+	
+
+	float: right;
+	width: 600px;
+	height: 50px;
+	margin-right: 50px;
+	text-align: center;	
+	margin-top: 25px;
+
+	
+	
+}
+
+.nav li {
+	position: relative;
+	display: inline-block;
+	text-align: center;
+	line-height: 100px;
+}
+
+.nav li{
+	font-size: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
+	letter-spacing: 2px;
+	line-height: 50px;
+}
+
+.imena {
+	width: 600px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	line-height: 100px
+}
+
+.meni {
+	text-decoration: none;
+	color: white;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+
+
+.meni:hover{
+	 color: red;
+
+}
+
+.galerija{
+width: 1300px;
+height: 1000px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 102px;
+}
+
+.donji{
+	position: absolute;
+	width: 100%;
+	height: 100px;
+	background-color: #003164;
+	border-top: 2px solid red;
+	margin-bottom: 0px;
+}
+
+
+.kontakt
+{ 
+	width: 900px;
+	height: 350px;
+	background-color: rgba(0, 7, 149, 0.3);
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 120px;
+}
+
+
+.kontakt li{
+	display: inline-block;
+	margin-top: 140px;
+	padding: 2px;	
+	
+	
+}
+
+.kontakt ul {
+	
+	text-align: center;
+	
+	}
+
+
+.text{
+
+	width: 300px;
+	height: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+}
+
+h3 {
+	padding: 5px;
+}
